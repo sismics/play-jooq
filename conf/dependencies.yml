@@ -1,0 +1,9 @@
+self: play -> jooq 0.1
+
+require:
+    - play
+    - org.jooq -> jooq 3.8.4:
+        exclude:
+            - javax.persistence -> *
+    - org.jooq -> jooq-meta 3.8.4
+    - org.jooq -> jooq-codegen 3.8.4
