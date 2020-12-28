@@ -1,4 +1,4 @@
-self: play -> jooq 0.1
+self: play -> jooq 1.0.0
 
 require:
     - play

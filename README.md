@@ -1,3 +1,6 @@
+[![GitHub release](https://img.shields.io/github/release/sismics/play-jooq.svg?style=flat-square)](https://github.com/sismics/play-jooq/releases/latest)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 # play-jooq plugin
 
 This plugin adds [JOOQ](http://http://www.jooq.org/) support to Play! Framework 1 applications.
@@ -8,7 +11,7 @@ This plugin adds [JOOQ](http://http://www.jooq.org/) support to Play! Framework 
 
 ```
 require:
-    - jooq -> jooq 0.1
+    - jooq -> jooq 1.0.0
 
 repositories:
     - sismics:
